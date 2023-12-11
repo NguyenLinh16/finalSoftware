@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624700880168",
+    "project_id": "apphoctienganhck",
+    "storage_bucket": "apphoctienganhck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624700880168:android:3600beee19e66400f04c1d",
+        "android_client_info": {
+          "package_name": "com.example.apphoctienganh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75pGkikZW8Mv0MWUvcrX30CC1-WrTpWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
